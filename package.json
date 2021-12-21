@@ -18,5 +18,10 @@
   "homepage": "https://github.com/gj-martinez/plataformaIOT#readme",
   "devDependencies": {
     "standard": "^16.0.4"
+  },
+  "dependencies": {
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.1"
   }
 }
