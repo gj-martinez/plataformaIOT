@@ -2,7 +2,6 @@
 
 const debug = require('debug')('piot:db:setup')
 const inquirer = require('inquirer')
-const chalk = require('chalk')
 const db = require('./')
 
 const prompt = inquirer.createPromptModule()
