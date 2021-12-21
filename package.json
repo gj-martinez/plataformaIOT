@@ -1,0 +1,22 @@
+{
+  "name": "piot-db",
+  "version": "1.0.0",
+  "description": "Iot Plataforma - DB Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gj-martinez/plataformaIOT.git"
+  },
+  "author": "gonzalo martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gj-martinez/plataformaIOT/issues"
+  },
+  "homepage": "https://github.com/gj-martinez/plataformaIOT#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
